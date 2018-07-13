@@ -1,0 +1,2 @@
+# utl_cubic_spline_extrapolate_and_forecast_values_based_on_a_fitted_curve_of_existing_values
+Cubic spline extrapolate or forecast values based on a fitted curve of existing values.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
